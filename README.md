@@ -1,5 +1,5 @@
 # Modlist
-- HugsLib | http://steamcommunity.com/sharedfiles/filedetails/?id=818773962
+- [HugsLib] (http://steamcommunity.com/sharedfiles/filedetails/?id=818773962)
 
 - JecsTools | http://steamcommunity.com/sharedfiles/filedetails/?id=932008009
 
