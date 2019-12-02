@@ -14,7 +14,7 @@
 - More Mechanoids | http://steamcommunity.com/sharedfiles/filedetails/?id=846222458
 - Mechanoids Extraordinaire | http://steamcommunity.com/sharedfiles/filedetails/?id=1106719215
 - Sparkling Worlds - Full Mod | http://steamcommunity.com/sharedfiles/filedetails/?id=1123043922
-- Extended Storage | http://steamcommunity.com/sharedfiles/filedetails/?id=0
+- Extended Storage | http://steamcommunity.com/sharedfiles/filedetails/?id=731732064
 - AutoOwl | http://steamcommunity.com/sharedfiles/filedetails/?id=1363420598
 - Where's My Bed? | http://steamcommunity.com/sharedfiles/filedetails/?id=1919873778
 - Labels on Floor | http://steamcommunity.com/sharedfiles/filedetails/?id=1408863965
