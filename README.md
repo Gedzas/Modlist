@@ -14,15 +14,14 @@
 - More Mechanoids | http://steamcommunity.com/sharedfiles/filedetails/?id=846222458
 - Mechanoids Extraordinaire | http://steamcommunity.com/sharedfiles/filedetails/?id=1106719215
 - Sparkling Worlds - Full Mod | http://steamcommunity.com/sharedfiles/filedetails/?id=1123043922
+- Extended Storage | http://steamcommunity.com/sharedfiles/filedetails/?id=0
 - AutoOwl | http://steamcommunity.com/sharedfiles/filedetails/?id=1363420598
 - Where's My Bed? | http://steamcommunity.com/sharedfiles/filedetails/?id=1919873778
 - Labels on Floor | http://steamcommunity.com/sharedfiles/filedetails/?id=1408863965
 - Run and Hide | http://steamcommunity.com/sharedfiles/filedetails/?id=1552457762
 - Job Splitter | http://steamcommunity.com/sharedfiles/filedetails/?id=1211661009
 - SF [v1.0] Priority Treatment | http://steamcommunity.com/sharedfiles/filedetails/?id=1502876618
-- Animal Variety Coats | http://steamcommunity.com/sharedfiles/filedetails/?id=1511926373
 - Wall Light | http://steamcommunity.com/sharedfiles/filedetails/?id=1423699208
-- Storage Solutions | http://steamcommunity.com/sharedfiles/filedetails/?id=895944018
 - Pick Up And Haul | http://steamcommunity.com/sharedfiles/filedetails/?id=1279012058
 - Animals Logic | http://steamcommunity.com/sharedfiles/filedetails/?id=1098354593
 - More Sculpture | http://steamcommunity.com/sharedfiles/filedetails/?id=1612316880
@@ -105,7 +104,6 @@
 - Prepare Landing | http://steamcommunity.com/sharedfiles/filedetails/?id=1095331978
 - [SYR] Light Radius | http://steamcommunity.com/sharedfiles/filedetails/?id=1520756475
 - Infused | http://steamcommunity.com/sharedfiles/filedetails/?id=731287727
-- Supreme Melee | http://steamcommunity.com/sharedfiles/filedetails/?id=1841138974
 - PawnTargetFix | http://steamcommunity.com/sharedfiles/filedetails/?id=1896982754
 - Psychic Awakening | http://steamcommunity.com/sharedfiles/filedetails/?id=1918756321
 - Colony Leadership | http://steamcommunity.com/sharedfiles/filedetails/?id=1565942758
