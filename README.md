@@ -17,7 +17,6 @@
 - Let's Trade! [1.0] | http://steamcommunity.com/sharedfiles/filedetails/?id=1541261044
 - CCP's Stone Tweaks | http://steamcommunity.com/sharedfiles/filedetails/?id=1523682542
 - More Mechanoids | http://steamcommunity.com/sharedfiles/filedetails/?id=846222458
-- What the hack?! | http://steamcommunity.com/sharedfiles/filedetails/?id=1505914869
 - VGP Vegetable Garden | http://steamcommunity.com/sharedfiles/filedetails/?id=1185265132
 - AutoOwl | http://steamcommunity.com/sharedfiles/filedetails/?id=1363420598
 - [SYR] Metallic Batteries | http://steamcommunity.com/sharedfiles/filedetails/?id=1489425285
@@ -43,7 +42,6 @@
 - Giddy-up! Ride and Roll | http://steamcommunity.com/sharedfiles/filedetails/?id=1331961995
 - Giddy-up! Caravan | http://steamcommunity.com/sharedfiles/filedetails/?id=1253251478
 - Giddy-up! Battle Mounts | http://steamcommunity.com/sharedfiles/filedetails/?id=1217001091
-- Giddy-up! Mechanoids | http://steamcommunity.com/sharedfiles/filedetails/?id=1518932357
 - Real Ruins | http://steamcommunity.com/sharedfiles/filedetails/?id=1552146295
 - Mod Manager | http://steamcommunity.com/sharedfiles/filedetails/?id=1507748539
 - [KV] Trading Spot - 1.0 | http://steamcommunity.com/sharedfiles/filedetails/?id=1180719658
